@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30ced408-c850-4738-a936-522437bbf73b" name="Changes" comment="&#10;Entidad Ticket echa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30ced408-c850-4738-a936-522437bbf73b" name="Changes" comment="&#10; Ticket: service, repository, controller&#10; exceptions: echas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +16,8 @@
         <option value="com.haulmont.jpb.JpaRepository" />
         <option value="HTML File" />
         <option value="com.haulmont.jpb.JpaEntity" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680019496152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10; Ticket: service, repository, controller&#10; exceptions: echas">
+      <created>1680031040923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680031040923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +125,7 @@
     <MESSAGE value="Entidad Flight: controller, repository, service, implements y html creado." />
     <MESSAGE value="Entidad Passenger: controller, repository, service, implements y html creado.&#10;Entidad Ticket creada" />
     <MESSAGE value="&#10;Entidad Ticket echa" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Entidad Ticket echa" />
+    <MESSAGE value="&#10; Ticket: service, repository, controller&#10; exceptions: echas" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10; Ticket: service, repository, controller&#10; exceptions: echas" />
   </component>
 </project>
