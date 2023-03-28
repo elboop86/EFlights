@@ -1,12 +1,10 @@
 package com.example.entities;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
+import java.util.HashSet;
 
 @Getter
 @Setter
@@ -28,5 +26,10 @@ public class Flight {
     private LocalDateTime dateTimeTo;  // llegada
     private Integer seats;  // asientos
 
+   // @OneToMany(mappedBy = "flight")
+   // @ToString.Exclude
+   // Set<Tiket> tickets = new HashSet<>();
 
+
+    public Flight(Long id) {this.id = id;}
 }
