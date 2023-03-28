@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30ced408-c850-4738-a936-522437bbf73b" name="Changes" comment="Entidad Passenger: controller, repository, service, implements y html creado.&#10;Entidad Ticket creada">
+    <list default="true" id="30ced408-c850-4738-a936-522437bbf73b" name="Changes" comment="&#10;Entidad Ticket echa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,13 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680018035659</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;Entidad Ticket echa">
+      <created>1680019496152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680019496152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Entidad Flight: creada" />
     <MESSAGE value="Entidad Flight: controller, repository, service, implements y html creado." />
     <MESSAGE value="Entidad Passenger: controller, repository, service, implements y html creado.&#10;Entidad Ticket creada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entidad Passenger: controller, repository, service, implements y html creado.&#10;Entidad Ticket creada" />
+    <MESSAGE value="&#10;Entidad Ticket echa" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Entidad Ticket echa" />
   </component>
 </project>
