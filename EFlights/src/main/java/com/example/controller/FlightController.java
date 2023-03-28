@@ -42,7 +42,7 @@ public class FlightController {
 
     // Mostrar formulario para crear/editar un vuelo
     @GetMapping("flights/create")
-    public String showCreateFrom(@ModelAttribute Flight flight) {
+    public String showCreateFrom(Model model) {
         model.addAttribute("flight", new Flight());
 
         return "flights/flight-from";
