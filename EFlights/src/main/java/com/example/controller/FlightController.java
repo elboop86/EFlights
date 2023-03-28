@@ -3,7 +3,7 @@ package com.example.controller;
 import com.example.entities.Flight;
 import com.example.service.FlightService;
 import lombok.AllArgsConstructor;
-import org.springframework.boot.Banner;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
